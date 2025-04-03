@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website  
+# E-Commerce Website  
 
 This is a fully functional e-commerce website built using the Django framework.  
 
@@ -7,24 +7,14 @@ This is a fully functional e-commerce website built using the Django framework.
 - ✅ Product Listing & Filtering  
 - ✅ Shopping Cart  
 - ✅ Secure Checkout  
-- ✅ Admin Panel for Product & Order Management  
+- ✅ Database Panel for Product & Order Management  
 
 ## 📌 Tech Stack  
 - **Backend:** Django  
 - **Frontend:** HTML, CSS, JavaScript (Bootstrap)  
 - **Database:** SQLite (default)  
 
-## 🔧 Installation & Usage  
-
-### Clone the Repository:  
-```bash
-git clone https://github.com/your-username/Ecommer_Website.git
-cd Ecommer_Website
-python manage.py runserver
-http://127.0.0.1:8000/
-
 ## 📷 Screenshots  
-
 ### Homepage  
 ![Homepage](GitHub%20Resources/home.png)  
 
@@ -34,5 +24,20 @@ http://127.0.0.1:8000/
 ### Checkout Page  
 ![Checkout Page](GitHub%20Resources/checkout.png)  
 
+## 🔧 Installation & Usage  
+
+### Clone the Repository:  
+```bash
+git clone https://github.com/your-username/Ecommer_Website.git
+cd Ecommerce_Website
+python manage.py runserver
+http://127.0.0.1:8000/
+``````
+
 📜 Contributing
 Feel free to fork this repository and submit pull requests.
+
+📜 License
+This project is licensed under the MIT License.
+
+---
