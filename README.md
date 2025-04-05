@@ -28,7 +28,7 @@ This is a fully functional e-commerce website built using the Django framework.
 
 ### Clone the Repository:  
 ```bash
-git clone https://github.com/your-username/Ecommer_Website.git
+git clone https://github.com/your-username/Ecommerce_Website.git
 cd Ecommerce_Website
 python manage.py runserver
 http://127.0.0.1:8000/
